@@ -1,0 +1,57 @@
+<photos>
+<info>
+    <header-right>Malerei</header-right>
+    <header-left>www.simssee-atelier.de</header-left>
+    <author>Brigitte Göbl</author>
+    <date>16.01.2012</date>
+</info>
+<photo>
+    <src orientation="portrait">small-IMG02.jpg</src>
+    <title>Zwischenspiel</title>
+    <subtitle1>80 x 120 cm (m.R.)</subtitle1>
+    <subtitle2>Acryl</subtitle2>
+    <info>900</info>
+</photo>
+<photo>
+    <src orientation="portrait">small-IMG05.jpg</src>
+    <title>Trodosberge, Zypern</title>
+    <subtitle1>50 x 70 cm</subtitle1>
+    <subtitle2>Acryl</subtitle2>
+    <info>250</info>
+</photo>
+<photo>
+    <src orientation="landscape">small-IMG13.jpg</src>
+    <title>Frühling</title>
+    <subtitle1>40 x 40 cm</subtitle1>
+    <subtitle2>Acryl</subtitle2>
+    <info>150</info>
+</photo>
+<photo>
+    <src orientation="landscape">small-IMG14.jpg</src>
+    <title>Sommer</title>
+    <subtitle1>40 x 40 cm</subtitle1>
+    <subtitle2>Acryl</subtitle2>
+    <info>150</info>
+</photo>
+<photo>
+    <src orientation="landscape">small-IMG15.jpg</src>
+    <title>Herbst</title>
+    <subtitle1>40 x 40 cm</subtitle1>
+    <subtitle2>Acryl</subtitle2>
+    <info>150</info>
+</photo>
+<photo>
+    <src orientation="landscape">small-IMG16.jpg</src>
+    <title>Winter</title>
+    <subtitle1>40 x 40 cm</subtitle1>
+    <subtitle2>Acryl</subtitle2>
+    <info>150</info>
+</photo>
+<photo>
+    <src orientation="landscape">small-IMG39.jpg</src>
+    <title>Okavango-Delta</title>
+    <subtitle1>40 x 30 cm (m.R.)</subtitle1>
+    <subtitle2>Pastellkreide</subtitle2>
+    <info>200</info>
+</photo>
+</photos>

@@ -1,0 +1,8 @@
+src;orientation;title;subtitle1;subtitle2;info
+small-IMG02.jpg;portrait;Zwischenspiel;80 x 120 cm (m.R.);Acryl;900
+small-IMG05.jpg;portrait;Trodosberge, Zypern;50 x 70 cm;Acryl;250
+small-IMG13.jpg;landscape;Frühling;40 x 40 cm;Acryl;150
+small-IMG14.jpg;landscape;Sommer;40 x 40 cm;Acryl;150
+small-IMG15.jpg;landscape;Herbst;40 x 40 cm;Acryl;150
+small-IMG16.jpg;landscape;Winter;40 x 40 cm;Acryl;150
+small-IMG39.jpg;landscape;Okavango-Delta;40 x 30 cm (m.R.);Pastellkreide;200

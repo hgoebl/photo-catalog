@@ -1,0 +1,8 @@
+{
+    "name": "photo-catalog",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "optimist": ">= 0.3.0"
+    }
+}
